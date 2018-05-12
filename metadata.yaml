@@ -1,0 +1,43 @@
+_repo: May-Flowers_37981
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37981-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, Louisa M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: Being Boston girls, of course they got up a club for mental improvement,
+  and, as they were all descendants of the Pilgrim Fathers, they called it the Mayflower
+  Club. A very good name, and the six young girls who were members of it made a very
+  pretty posy when they met together, once a week, to sew, and read well-chosen books.
+  At the first meeting of the season, after being separated all summer, there was
+  a good deal of gossip to be attended to before ...?
+gutenberg_issued: '2011-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girl volunteers -- Juvenile fiction'
+- !lcsh 'Working poor -- Juvenile fiction'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boston (Mass.) -- Juvenile fiction'
+- !lcsh 'Child labor -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+title: May Flowers
+url: http://www.gutenberg.org/ebooks/37981
